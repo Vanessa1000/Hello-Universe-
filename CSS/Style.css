@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    color: #CF33FF;
+    font-family: arial;
+    border: solid 3px;
+    padding: 50px;
+}
+
+img {
+  background-color: blue;
+  margin: 25px;
+  padding: 30px;
+  border-radius: 50%
+}
+
+div {
+  padding: 25px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+
+}
+h1, h2 {
+  text-align: center;
+}
+
+.blablabla {
+  color: white
+}
+
+#hahahaha {
+  color: yellow
+}
